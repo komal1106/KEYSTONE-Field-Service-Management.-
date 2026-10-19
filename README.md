@@ -1,4 +1,4 @@
-# tinyglobby
+
 
 [![npm version](https://img.shields.io/npm/v/tinyglobby.svg?maxAge=3600)](https://npmjs.com/package/tinyglobby)
 [![weekly downloads](https://img.shields.io/npm/dw/tinyglobby.svg?maxAge=3600)](https://npmjs.com/package/tinyglobby)
