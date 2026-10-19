@@ -1,0 +1,6 @@
+com\keystone\workorder\Priority.class
+com\keystone\workorder\WorkOrder.class
+com\keystone\workorder\WorkOrderRepository.class
+com\keystone\KeystoneApplication.class
+com\keystone\workorder\WorkOrderController.class
+com\keystone\workorder\WorkOrderStatus.class
